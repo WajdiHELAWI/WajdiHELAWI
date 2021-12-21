@@ -35,7 +35,7 @@
 <br />
 <br />
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=otmattou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WajdiHELAWI&show_icons=true&theme=tokyonight)
 
 #### 
 
