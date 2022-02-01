@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Wajdi HELAWI
 - 👀 I’m interested in  artificial intelligence,robotics and software development in Python/C++
-- 🌱 I’m currently learning PyTorch 
+- 🌱 I’m currently working on computer vision projects 
 - 💞️ I’m looking to collaborate on innovation projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to swimming and play football
